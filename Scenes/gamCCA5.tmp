@@ -1,18 +1,20 @@
 [gd_scene load_steps=4 format=3 uid="uid://b35fs4h5yog4y"]
 
+[ext_resource type="Script" path="res://Scenes/game.gd" id="1_6nsla"]
 [ext_resource type="Texture2D" uid="uid://djlsdnchmotto" path="res://Assets/background_placeholder.jpg" id="1_nqvmq"]
 [ext_resource type="PackedScene" uid="uid://dblf1wt2c7j4x" path="res://Scenes/player.tscn" id="1_wcscj"]
-[ext_resource type="Script" path="res://player.gd" id="4_3unst"]
 
 [node name="Main" type="Node2D"]
 position = Vector2(-600, -798)
 rotation = -0.00608076
 scale = Vector2(1.90284, 2.69162)
-script = ExtResource("4_3unst")
+script = ExtResource("1_6nsla")
 
 [node name="BackgroundPlaceholder" type="Sprite2D" parent="."]
 position = Vector2(534, 472)
 texture = ExtResource("1_nqvmq")
 
 [node name="Player" parent="." instance=ExtResource("1_wcscj")]
-script = null
+position = Vector2(397.407, 463.468)
+rotation = -0.006634
+scale = Vector2(0.2966, 0.210086)
