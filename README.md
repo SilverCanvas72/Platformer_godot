@@ -1,5 +1,5 @@
 # Flappy Bird System - Godot - Experiment
-Experimental. Working on physics for flappy bird. Not a playable game only the physics.
+Experimental. Working on physics for flappy bird.
 <hr>
 ## To Try out:
 
