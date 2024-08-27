@@ -1,15 +1,20 @@
 # Flappy Bird System - Godot - Experiment
 Experimental. Working on physics for flappy bird. Not a playable game only the physics.
 <hr>
-To Try out:
+## To Try out:
 
-  1. Have Latest Version of godot
-  
-  2. Clone this repository or download a ZIP archive. If you've downloaded a ZIP archive, extract it somewhere.
+  1. Find and the GodotRPG.exe file
      
-  3. Open the Godot project manager and click the Scan button on the right.
-     
-  4.Choose the path to the folder containing the files.
+     <img width="671" alt="image" src="https://github.com/user-attachments/assets/3ffccef1-4fa7-417d-864f-45c93c6ae479">
+
+
+  2. Download the Platformer.exe file
+
+  3. Locate in your computers downloads
+
+  4. Open
+
+  5. Enjoy! (SPACEBAR to jump)
 
 ## Video:
 https://youtube.com/shorts/gcMRPz2kcpU?feature=share
